@@ -26,9 +26,9 @@
         <tr>
             <td>@role.Id</td>
             <td>@role.Name</td>
-            <td>User List</td>
+            <td asp-role-users="@role.Id"></td>
             <td>
-                 <a class="btn btn-primary btn-sm">Edit</a>
+                 <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@role.Id">Edit</a>
                  <form asp-action="Delete" method="post" onsubmit="return confirm('emin misiniz')" style="display: inline-block;">
                       <input type="hidden" value="@role.Id" name="id" />
                       <button type="submit" class="btn btn-danger btn-sm">Delete</button>
