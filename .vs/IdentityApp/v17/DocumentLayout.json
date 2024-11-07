@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +58,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "IdentityApp\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "IdentityApp\\Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAeAAAA",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "IdentityApp\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDQAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T17:36:24.052Z"
+              "WhenOpened": "2024-11-06T19:46:34.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "IdentityApp\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Controllers\\UsersController.cs",
               "RelativeToolTip": "IdentityApp\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAABAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAswHEAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T16:35:55.678Z",
+              "WhenOpened": "2024-11-06T16:07:02.112Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityApp\\ViewModels\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "IdentityApp\\ViewModels\\EditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:06:21.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "IdentityApp\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:08:47.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:58:28.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "IdentityApp\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCEAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:53:01.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "IdentityApp\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:52:11.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "IdentityApp\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "IdentityApp\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:50:43.104Z"
             }
           ]
         }
