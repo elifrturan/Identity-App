@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\viewmodels\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\viewmodels\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|c:\\users\\asus\\desktop\\.netprojects\\identityapp\\identityapp\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025A8595-C33E-4274-8E13-1C0279425540}|IdentityApp\\IdentityApp.csproj|solutionrelative:identityapp\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\appsettings.json",
+              "RelativeToolTip": "IdentityApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T11:22:22.944Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
@@ -30,15 +59,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "IdentityApp\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:21:41.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\ViewModels\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "IdentityApp\\ViewModels\\ResetPasswordModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\ViewModels\\ResetPasswordModel.cs",
+              "RelativeToolTip": "IdentityApp\\ViewModels\\ResetPasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:11:42.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "IdentityApp\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "IdentityApp\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:11:26.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "IdentityApp\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\.NETProjects\\IdentityApp\\IdentityApp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "IdentityApp\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAARAAAA",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAqwIcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T13:00:12.302Z",
+              "WhenOpened": "2024-12-08T16:59:21.232Z",
               "EditorCaption": ""
             }
           ]
